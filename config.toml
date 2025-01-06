@@ -1,0 +1,7 @@
+webHookAddress = ''
+collectionIntervalCorn = '*/1 * * * *'
+alarmCount = 5
+serverAlias = '3方对接服务器'
+serverIp = '119.24.253.36'
+collectionIntervalUnit = '分钟'
+warnIndex = 1
